@@ -5,7 +5,7 @@ love bringing that experience to the projects I work on. I've spent time in Soft
 
 ## Husband, Father, Developer, and Hockey Player
 
-- 🖥 Software Developer 8 @ [ATB Financial](www.atb.com)
+- 🖥 Software Developer 8 @ [ATB Financial](https://www.atb.com)
 - 🌱 I’m currently learning all that I can, but lately CircuitPython for fun
 - 😄 Pronouns: He/Him
 - 🎓 BSc Specialization In Computing Science alumnus from University of Alberta
